@@ -1,0 +1,29 @@
+
+<h1> Curso Analisis de datos con Pandas.( Dictado por Humai ) </h1> 
+
+<h2> Tabla de Contenidos</h2> 
+
+<h3> Clase 1 </h3> 
+
+Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6INufjlcOnqa&index=2
+
+# Tabla de Contenidos
+
+    I. Análisis de datos con Pandas
+    II. Los objetos fundamentales de Pandas
+        I. Series
+        II. DataFrames
+        III. Índices
+    III. Exploración
+        I. Filtrando un DataFrame (Indexing)
+            I. Boolean Indexing
+                I. Máscara booleana
+                II. Máscara booleana con muchas condiciones
+            II. Boolean indexing con query()
+            III. Fancy Indexing
+        II. Funciones de Agregación
+    IV. Otros análisis descriptivos
+        I. Para las variables numéricas
+        II. Para las variables categóricas
+        III. Ordenar por columnas y limitar la cantidad de resultados
+    V. Anexo: volviendo al tema de la vectorización
