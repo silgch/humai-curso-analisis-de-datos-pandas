@@ -7,7 +7,6 @@
 
 Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6INufjlcOnqa&index=2
 
-# Tabla de Contenidos
 
     I. Análisis de datos con Pandas
     II. Los objetos fundamentales de Pandas
@@ -27,3 +26,19 @@ Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6IN
         II. Para las variables categóricas
         III. Ordenar por columnas y limitar la cantidad de resultados
     V. Anexo: volviendo al tema de la vectorización
+
+
+<h3>  Clase 2: Pivot tables y joins </h3>
+
+Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6INufjlcOnqa&index=2
+
+    I. Parámetros y extracción de datos
+    II. Pivot table
+        I. Contar casos a partir de un registro
+        II. Crear un panel a partir de un registro
+    III. Concat
+    IV. .str
+        I. .str.replace()
+        II. .str.split()
+    V. .map
+    VI. Merge
