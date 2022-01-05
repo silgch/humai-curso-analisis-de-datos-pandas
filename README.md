@@ -28,6 +28,7 @@ Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6IN
     V. Anexo: volviendo al tema de la vectorización
 
 
+
 <h3>  Clase 2: Pivot tables y joins </h3>
 
 Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6INufjlcOnqa&index=2
@@ -42,3 +43,22 @@ Link: https://www.youtube.com/watch?v=xr00OfQn0JU&list=PLISuMnTdVU-yObpmSVldV6IN
         II. .str.split()
     V. .map
     VI. Merge
+    
+    
+<h3>  Clase 3: Agrupacion y Agregacion </h3>
+
+Link: https://www.youtube.com/watch?v=NFERQ_bCfHw&list=PLISuMnTdVU-yObpmSVldV6INufjlcOnqa&index=3
+
+I. Agrupación y agregación
+    I. Introducción
+        I. Crear columnas
+III. Funciones de Agregación simple
+IV. GroupBy: Trabajando sobre grupos
+    I. Clases que se encargan de la Agregación en Pandas
+    II. DataSetGroupBy
+        I. Lazy Evaluation
+        II. Iterar sobre los grupos
+    III. SeriesGroupBy
+    IV. Agregaciones múltiples
+    V. MultiIndex
+    VI. Ejercicios
